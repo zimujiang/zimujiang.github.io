@@ -1,3 +1,5 @@
+
+
 [字幕酱](https://www.zimujiang.com?utm_source=github)是一款基于AI的在线语音视频生成字幕、字幕格式转换、字幕翻译的线上工具。
 
 官网地址：[https://www.zimujiang.com](https://www.zimujiang.com?utm_source=github)
@@ -27,7 +29,11 @@
 
 # 在线语音生成字幕
 
+字幕酱提供在线语音、视频自动生成字幕的功能，利用AI语音识别技术，快速识别音视频内容，并转换成SRT字幕格式或者TXT文本格式，帮助UP主彻底摆脱费时费力字幕打轴劳动。
 
+在线语音生成字幕地址使用地址：[https://www.zimujiang.com/](https://www.zimujiang.com?utm_source=github)
+
+<img src="./static/1.png" alt="在线语音生成字幕" style="zoom:80%;" />
 
 
 
